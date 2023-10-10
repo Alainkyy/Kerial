@@ -1,4 +1,4 @@
-# Le test consiste à réaliser une application web en avec une API pour :
+# Le test consiste à réaliser une application web avec une API pour :
 
     ➢ Créer des dépenses 
     ➢ Lister les dépenses 
