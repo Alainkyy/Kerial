@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33717.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kerial", "Kerial.csproj", "{47419EFF-C864-44FB-A621-15C02911973A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestKerial", "..\TestKerial\TestKerial.csproj", "{0F310591-DED6-445C-8D2C-446EB7302C6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47419EFF-C864-44FB-A621-15C02911973A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47419EFF-C864-44FB-A621-15C02911973A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47419EFF-C864-44FB-A621-15C02911973A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47419EFF-C864-44FB-A621-15C02911973A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F310591-DED6-445C-8D2C-446EB7302C6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F310591-DED6-445C-8D2C-446EB7302C6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F310591-DED6-445C-8D2C-446EB7302C6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F310591-DED6-445C-8D2C-446EB7302C6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C6ABB6E-336B-4F18-84D2-FEBDEE1AD2AF}
+	EndGlobalSection
+EndGlobal
